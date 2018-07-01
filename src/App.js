@@ -1,6 +1,7 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import ListContacts from './ListContacts'
 import * as ContactsAPI from './ContactsAPI'
+import CreateContacts from './CreateContacts'
 
 class App extends Component {
   state = {
@@ -28,4 +29,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App
