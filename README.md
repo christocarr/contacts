@@ -1,3 +1,10 @@
+
+#Contacts app 
+
+This app was created while learning React and React Router on Udacity.
+
+See below for more information.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
